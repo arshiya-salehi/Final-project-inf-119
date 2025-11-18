@@ -137,9 +137,5 @@ See `demo_video.mp4` for a complete walkthrough of the system.
 ## Written Report
 See `final_report.pdf` for detailed system design and analysis.
 
-## GitHub Repository
-Repository URL: [Your GitHub URL]
-TA has been added as collaborator: jacobk13@uci.edu
-
 ## License
 Academic project for IN4MATX 119 - Fall 2025
